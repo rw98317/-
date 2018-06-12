@@ -1,6 +1,6 @@
 public class HelloWorld
 {
-private String text;
+private static String text;
 
 public HelloWorld(String text)
 {
